@@ -1,6 +1,6 @@
-# Contributing to Awesome Gemini Prompts
+# Contributing to Awesome Nano Banana Prompts
 
-Thank you for your interest in contributing to Awesome Gemini Prompts! This document provides guidelines for contributing prompts.
+Thank you for your interest in contributing to Awesome Nano Banana Prompts! This document provides guidelines for contributing prompts.
 
 ## How to Contribute
 
@@ -29,7 +29,7 @@ Thank you for your interest in contributing to Awesome Gemini Prompts! This docu
 ### Prompt Guidelines
 
 - ✅ Prompts should be useful and practical
-- ✅ Prompts should work well with Gemini and other LLMs
+- ✅ Prompts should work well with Nano Banana and other LLMs
 - ✅ Prompts should be original or properly attributed
 - ✅ Prompts should be clear and well-formatted
 - ❌ Avoid prompts that are offensive, harmful, or violate terms of service

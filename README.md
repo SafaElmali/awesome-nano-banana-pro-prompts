@@ -1,10 +1,10 @@
-# Awesome Gemini Prompts
+# Awesome Nano Banana Prompts
 
-This repo includes Gemini prompt curation to use Google Gemini and other LLM tools better.
+This repo includes Nano Banana prompt curation to use Nano Banana and other LLM tools better.
 
 ## 🤖 What is this?
 
-This repository contains a collection of prompts that can be used with Google Gemini and other large language models. These prompts are designed to help you get the most out of your interactions with AI models.
+This repository contains a collection of prompts that can be used with Nano Banana and other large language models. These prompts are designed to help you get the most out of your interactions with AI models.
 
 ## 📝 Prompts
 
