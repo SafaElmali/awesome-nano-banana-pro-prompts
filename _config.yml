@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: Awesome Gemini Prompts
+description: A collection of prompts for Google Gemini and other LLM tools
+github: [metadata]
+plugins:
+  - jekyll-feed
+
