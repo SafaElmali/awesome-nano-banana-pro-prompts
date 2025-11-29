@@ -118,6 +118,16 @@ Reference by: [@egeberkina](https://twitter.com/egeberkina)
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/327fdb14-6ebe-45e5-9c1d-d54d39f247c1" />
 </div>
 
+### Act as an Earnings Report Infographic Creator
+
+Reference by: [@tunguz](https://twitter.com/tunguz)
+
+> Create an infographic from this earnings report.
+
+<div align="center">
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/9c90d6a9-1e4c-443d-bcdc-d76a30047783" />
+</div>
+
 ## 🤝 Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to add your prompts.
